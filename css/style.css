@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600&display=swap');
+
+body {
+    background: #d4e4e7ea;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 450px;
+    /* text-align: center; */
+}
+
+h4 {
+    font-size: 26px;
+    color: rgb(0, 0, 0);
+    font-weight: 400;
+}
+
+#new_task, #task_filter {
+    padding: 15px 30px;
+    background: #79879183;
+    outline: none;
+    border: none;
+    color: rgb(46, 46, 46);
+    font-size: 17px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+input, button {
+    padding: 15px 30px;
+    background: #1c27299c;
+    border: none;
+    color: rgb(255, 247, 247);
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+ul {
+    font-variant: small-caps;
+    font-size: 20px;
+    letter-spacing: .78px;
+    color: #000000;
+}
